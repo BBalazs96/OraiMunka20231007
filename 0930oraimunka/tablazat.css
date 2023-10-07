@@ -1,0 +1,29 @@
+table,td{
+    border: black 1px solid;
+   border-collapse: collapse;
+   
+}
+body{
+    background-color: rgb(211, 211, 211);
+
+    
+}
+#piros{
+    background-color: red;
+}
+#sarga{
+    background-color: yellow;
+
+}
+.lila{
+     background-color: blue;
+}
+.zold{
+    background-color: green;
+}  
+#fekete{
+    background-color: black;
+    color: aliceblue;
+}
+
+

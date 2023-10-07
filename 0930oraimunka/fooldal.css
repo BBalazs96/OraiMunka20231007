@@ -1,0 +1,31 @@
+header{
+    background-color: aqua;
+    height: 200px;
+}
+.hatter{
+    background-color:palegreen;
+}
+body{
+    background-color:burlywood;
+    font-size: larger;
+}
+#negyedik{
+    background-size: contain;
+    background-image: url(kep4.jpg);
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#masodik{
+    margin-left: 3px;
+    border-top: 3px black dotted;
+    border-left: 3px yellow solid;
+    border-bottom: 3px blue dashed;
+    border-right: 3px darkgreen double;
+}
+#harmadik{
+    padding: 15px;
+    border: 3px red dashed;
+
+}

@@ -1,0 +1,24 @@
+table{
+    border: black 1px solid;
+    border-collapse: collapse;
+    margin-left: 25px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+
+td{
+    border: black 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+    font-size: large;
+    }
+#fekete{
+    background-color: black;
+    color: aliceblue;
+}
+.zold{
+    background-color: green;
+}  
